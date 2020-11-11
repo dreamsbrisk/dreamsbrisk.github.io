@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <base href="http://www.powerstation247.com" />
+
+		<title>Solar Energy Storage System | POWERSTATION 247</title>
+        <meta name="keywords" lang="en" content="Energy,storage,Residential,Backup,power,management,appliance,system,solar,battery,ESS,BMS,Hybrid,inverter,outage" />
+        <meta name="description" content="Solar Energy Storage. Cut your electricity costs and have independence from the power grid." />
+        <meta name="Page-Topic" content="solar energy electricity battery " />
+        <meta name="subject" content="" />
+
+        <meta name="robots" content="index,follow" />
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="files/css/basic.css" />
+        <link rel="shortcut icon" href="files/favicon.ico" />
+		<script type="text/javascript" src="files/js/jquery/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="files/js/basic.js"></script>
+		<script type="text/javascript" src="files/js/coolcarousel/jquery.carouFredSel-6.0.4-packed.js"></script>
+	
+	<!-- BEGIN AddOn Magnific Popup -->
+	<link rel="stylesheet" type="text/css" href="./files/addons/magnific_popup/magnific-popup.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="./files/addons/magnific_popup/custom.css" media="screen" />
+	<script type="text/javascript" src="./files/addons/magnific_popup/jquery.magnific-popup.min.js"></script>
+	<script type="text/javascript" src="./files/addons/magnific_popup/init.js"></script>
+	<!-- END AddOn Magnific Popup -->
+</head>
+    
+    <body>
+        <div id="site_hull" class="start">
+			<div id="head">
+				<div id="head_left"><img src="files/images/Powerstation247_Logo_n.png" alt="Concept US -independent energy resources-" /></div>	
+				<div id="head_center">
+<div id="head_center_content"><div class="tinymcewysiwyg"><address><span style="color: #ff6600;"><span class="textgross"> </span></span></address><address><span style="color: #008000;"><span class="textgross">Very successfull <strong>SOLAR POWER INTERNATIONAL 2018</strong></span></span></address><address><span style="color: #008000;"><span class="textgross">more than 100 + orders of POWERSTATION 247 units placed</span></span></address><address><span style="color: #008000;"><span class="textgross"> </span></span></address></div></div>
+				</div>
+				<div id="head_right">
+					<div id="head_right_content"><div class="tinymcewysiwyg"><p><strong> </strong></p>
+<p class="textriesig"><span style="color: #008000;">FOR MORE INFORMATION</span><br /><span style="color: #808000;"><span style="color: #008000;">CALL : +1.855.673.6731</span></span></p></div></div>
+				</div>	
+            </div>
+
+			<div id="stripe_hull">
+				<div class="stripe">
+					<div id="main_navi">
+						<ul class="navi1">
+<li class="current main_li">
+<a class="main_link" href="">Home</a>
+</li>
+<li class="main_li">
+<a class="main_link" href="/powerstation-247/powerstation-247.html">POWERSTATION 247</a>
+</li>
+<li class="main_li">
+<a class="main_link" href="/how-it-works/storing-solar-energy-with-your-powerstation.html">How it works</a>
+</li>
+<li class="main_li">
+<a class="main_link" href="/benefits/solar-energy-day-and-night.html">Benefits</a>
+</li>
+<li class="main_li">
+<a class="main_link" href="/corporate/corporate.html">Corporate</a>
+</li>
+<li class="main_li">
+<a class="main_link" href="/media/press.html">Media</a>
+</li>
+<li class="main_li">
+<a class="main_link" href="/contact/contact.html">Contact</a>
+</li>
+<li class="main_li">
+<a class="main_link" href="/whats-new/whats-new.html">What's New</a>
+</li>
+</ul>					</div>
+				</div>
+			</div>
+			<script type="text/javascript">
+			$(function() {
+				$('#carousel').carouFredSel({
+					width: '100%',
+					items: {
+						visible: 1,
+						start: -1
+					},
+					scroll: {
+						items: 1,
+						duration: 1000,
+						timeoutDuration: 5000
+					},
+					prev: '#prev',
+					next: '#next',
+					pagination: {
+						container: '#pager',
+						deviation: 1
+					}
+				});
+			});
+		</script>
+
+					<div id="c-carousel">
+						<div id="wrapper">
+							<div id="carousel">
+								<img src="files/sliderps247blockchain-technology.jpg" width="992" height="446" alt="" />
+<img src="files/sliderdiversity1.jpg" width="992" height="446" alt="" />
+<img src="files/ps247home7.jpg" width="992" height="446" alt="" />
+<img src="files/ps247home6.jpg" width="992" height="446" alt="" />
+<img src="files/home3.jpg" width="992" height="446" alt="" />
+<img src="files/ps247home2.jpg" width="992" height="446" alt="" />
+<img src="files/sliderps247-designed-in-germany.jpg" width="992" height="446" alt="" />
+							</div>
+							
+							<a id="prev" href="#"></a>
+							<a id="next" href="#"></a>
+							<div id="pager" style="margin-left: 102px;"></div>
+						</div>
+					</div>
+		
+            <div id="body_standard">
+				<div class="content_start">
+					
+<div class="gray_stripe_hull">
+<div class="gray_stripe_txt">KEEP YOUR SOLAR ENERGY AT YOUR HOME</div>
+</div><div class="hr"></div><br /><br /><div class="modulTextBildHull bildTextStandard"><div id="bigPic206" class="flRightBild" style="width:290px"><img src="index.php?rex_resize=290w__powerstation247_fullview_position_batteries.jpg" alt="Using solar energy day and night made us independent" /></div><div class="flLeftText" style="width:690px"><p style="text-align: left;"><span class="textriesigsten">What is the <strong>POWER</strong>STATION 247?</span><br /><br />An all-in-one integrated solar and scalable energy storage appliance that provides the customer 24/7 access to the solar energy they produce.</p>
+<ul>
+<li>Complete “Plug and Play” – simplest install</li>
+<li>Modular sizing: 5 kW, 10 kW, 15 kW up to 45 kW</li>
+<li>Scalable battery capacity: 17.28 kWh to 30 kWh</li>
+<li>Battery agnostic system</li>
+<li>On and off the grid solution</li>
+<li>Smart inverter with integrated battery and energy management</li>
+<li>Cloud based energy services and monitoring software</li>
+<li>Support for developing grid aggregation energy markets</li>
+<li>Generator connection for back-up power</li>
+</ul><div id="gallery" class="magnific-popup-gallery"><a href="./files/open_unit_white_paper_title_web.jpg" title="">IMAGES OF POWERSTATION 247...</a><a class="mfp-hide" href="./files/ps247_open_unit_postcard_web.jpg" title=""><img src="./index.php?rex_img_type=magnific_popup_gallery_thumb&amp;rex_img_file=ps247_open_unit_postcard_web.jpg" width="200" height="133" alt="Gal Pic 2 latest" /></a><a class="mfp-hide" href="./files/ps247_two_closed_unit_postcard_web.jpg" title=""><img src="./index.php?rex_img_type=magnific_popup_gallery_thumb&amp;rex_img_file=ps247_two_closed_unit_postcard_web.jpg" width="200" height="133" alt="Gal Pic 3 latest" /></a><a class="mfp-hide" href="./files/warehouse_postcard_web.jpg" title=""><img src="./index.php?rex_img_type=magnific_popup_gallery_thumb&amp;rex_img_file=warehouse_postcard_web.jpg" width="200" height="133" alt="Gal Pic 4 latest" /></a><div class="clearer"></div></div></div></div><br /><div class="hr"></div>
+<div class="green_stripe_hull">
+<div class="green_stripe_txt">ONLY ONE INTEGRATED POWERSTATION 247 AND YOU ARE READY TO GO.</div>
+</div><br /><div class="modulTextBildHull bildTextStandard"><div id="bigPic206" class="flLeftBild" style="width:320px"><img src="./files/ps_plus_home.png" alt="POWERSTATION 247 PLUS" /></div><div class="flRightText" style="width:660px"><p><span class="textriesigsten">NEW!</span><br /><span class="textriesiger"><strong>POWER</strong>STATION 247 PLUS</span><br /><br />The new <strong>POWER</strong>STATION 247 PLUS is a complete and fully integrated, “plug and play” scalable solar energy usage and storage system with built-in battery storage. It includes a modular AC to DC power converter, to feed energy from external AC-sources (external generators or a 2nd grid connection) directly into the battery circuit. <br /><br /><strong>The batteries can also be charged with generators to be able to operate completely off–grid.</strong></p>
+<p style="text-align: right; padding-right: 28px;"><a title="Powerstation247 Plus" href="files/ps247plus.pdf" target="_blank">DATA SHEET POWERSTATION 247 PLUS...</a></p></div></div><br /><br /><div class="hr"></div><br style="clear: left" /><div class="modulTextBildHull bildTextStandard"><div id="bigPic206" class="flLeftBild" style="width:280px"><img src="./files/solarcentexhandshake_small.jpg" alt="" /></div><div class="flRightText" style="width:700px"><p style="padding-right: 16px;"><br /><strong><strong>SOLAR CENTEX, a leading solar provider, is partnering with </strong>POWERSTATION 247 INC. </strong><br />Solar Centex is the first solar professional in central Texas to partner with POWERSTATION 247 Inc. and offer their customers the <strong>POWER</strong>STATION 247 product portfolio.</p>
+<p><strong>Howard “Scot” Arey, Owner of Solar CenTex said:</strong> <br />“We received the <strong>POWER</strong>STATION 247 at our warehouse yesterday and it has already surpassed our expectations. <br />The external beauty of this system is surpassed by the amazing craftsmanship inside; I’ve never seen such careful <br />wire management and attention to detail in any other system we’ve received. We started with Powerstation 247 Inc. <br />because it was the first to offer the peak inverting power that Texas homeowners need with the storage capacity that<br />our high electric demand requires…”  </p>
+<p>For more infomation visit <strong><span style="color: #99cc00;"><a href="https://www.solarcentex.com/" target="_blank"><span style="color: #99cc00;">SOLARCENTEX.COM</span></a>...</span></strong></p>
+<p style="text-align: right; padding-right: 28px;"> </p></div></div><br /><div class="hr"></div><br /><table class="tblTxtTwoColFull" cellspacing="0" cellpadding="0">
+<tr><td colspan="2" class="tdTxtTwoColHeadline"><p class="textriesigsten">It is that easy</p></td></tr>
+<tr>
+<td class="tdTxtTwoColLeft"><p>The<strong> POWER</strong>STATION 247 can be added to new or existing PV systems.<br />There are no more product hurdles such as diverse systems sourced from<br />different manufacturers and expensive and time-consuming installations.<br />Only one <strong>POWER</strong>STATION and your customer is ready to go.<br /> </p></td>
+<td class="tdTxtTwoColRight"><p>Solar generated energy can be directly used or stored. Moreover,<br />the system operates both on and off grid. If the system generates<br />over-capacity, the energy can easily be fed back into the grid and<br />during power outages the system automatically disconnects from<br />the grid and powers your site autonomously.</p></td>
+</tr>
+</table>
+<br /><div class="tinymcewysiwyg"><p style="text-align: center;"><span class="textgross">No more integration of various third-party components.<br />POWERSTATION 247 is a fully integrated behind-the-meter energy storage appliance.</span></p></div><br /><div class="tinymcewysiwyg"><p style="text-align: center;"><img style="vertical-align: middle;" title="Component vendors" src="index.php?tinymceimg=component_vendors_vs_ps247.jpg" alt="Component vendors" width="820" height="384" /></p></div><div class="hr"></div><br style="clear: left" /><div class="tinymcewysiwyg"><p class="textriesiger">“YES”, solar generated energy can be directly used or stored.</p>
+<p><img style="float: left; position: relative; top: -10px;" title="Solar generated energy can be directly used and stored" src="index.php?tinymceimg=woman_white.jpg" alt="Solar generated energy can be directly used and stored" width="206" height="238" /></p>
+<table style="padding: 0px; margin: 50px 0px 0px 0px; width: 628px;">
+<tbody>
+<tr>
+<td class="textkleiner" style="text-align: left; width: 50%; vertical-align: top;">
+<p>Integrated “All-In-One” solution.</p>
+<p>Energy storage and usage.</p>
+<p>Solar energy, day and night.</p>
+<p>Backup power during a power outage.</p>
+<p>Operates on and off grid.</p>
+<p>Intertek ETL certified, highest quality and safety.</p>
+<p>Zero carbon emissions.</p>
+</td>
+<td class="textkleiner" style="text-align: left; width: 50%; vertical-align: top;">
+<p>Safe and clean lithium-iron batteries.</p>
+<p>Installed in only a few hours.</p>
+<p>Remote monitoring via internet.</p>
+<p>Delivered and installed in only a few hours.</p>
+<p>Peace of mind with ten-year warranty.</p>
+<p>Add it to new or existing PV system.</p>
+</td>
+</tr>
+</tbody>
+</table></div><div class="hr"></div><br /><div style="padding-left: 14px; overflow: hidden; margin: 0 auto; width: 1006px;">
+<div class="modulABoxMargin">
+<div class="modulABoxHull3">
+<div class="modulABoxPicHull">
+<a href=""><img src="./files/box_ul_certified.jpg" alt="POWERSTATIOn is Intertek ETL certified" /></a>
+</div><div class="innerHull" style="overflow: hidden;">
+<div class="modulABoxTxtHull">
+<h3 class="modulABoxHl">SAFETY FIRST - INTERNATIONAL QUALITY</h3>
+<pre class="textnormal">Intertek ETL certified<br />IEEE 1547<br />IEEE 1547.1<br />NEC  (compliance)<br />CEC  (approved product)<br />HECO (pending)</pre>
+</div></div>
+</div></div>
+
+ <div class="modulABoxMargin">
+<div class="modulABoxHull3">
+<div class="modulABoxPicHull">
+<a href="files/ps247_booklet_08_2017.pdf" target="_blank" ><img src="./files/160427_box_p247booklet.jpg" alt="Solar energy, day and night. Read how you can contribute to a better future. Now." /></a>
+</div><div class="innerHull" style="overflow: hidden;">
+<div class="modulABoxTxtHull">
+<h3 class="modulABoxHl">POWERSTATION 247 BOOKLET</h3>
+<p>Solar energy, day and night. Read how you can contribute to a better future. Now.</p>
+<p> </p>
+</div><a class="modulABoxLink" href="files/ps247_booklet_08_2017.pdf" target="_blank" >read more...</a>
+</div>
+</div></div>
+
+ <div class="modulABoxMargin">
+<div class="modulABoxHull3">
+<div class="modulABoxPicHull">
+<a href="/benefits/solar-energy-day-and-night.html"><img src="./files/box_benefits_of_powerstation247.jpg" alt="Become a partner and expand your portfolio." /></a>
+</div><div class="innerHull" style="overflow: hidden;">
+<div class="modulABoxTxtHull">
+<h3 class="modulABoxHl">BENEFITS OF THE POWERSTATION 247</h3>
+<p>Become a partner and expand your portfolio. We are offering opportunities for partnerships all over the USA.</p>
+</div><a class="modulABoxLink" href="/benefits/solar-energy-day-and-night.html">read more...</a>
+</div>
+</div></div>
+
+ </div>
+<br />				</div>
+			</div>
+	<div class="hr"></div>		
+            <div id="footer">
+				<div id="footer_data">
+					<div class="flLeft">
+						<div class="tinymcewysiwyg"><p>copyright © Powerstation 247 Inc. 2018</p></div>					</div>
+					<div class="flRight">
+					</div>
+				</div>
+			</div>
+        </div>
+
+    </body>
+</html>

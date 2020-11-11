@@ -1,0 +1,34 @@
+#centerLayout1 #right{display:none;}
+#centerLayout1 #left{display:none;}
+#centerLayout1 #center1{display:none;}
+#centerLayout1 #center2{width:100%}
+
+#centerLayout2 #right{display:none;}
+#centerLayout2 #left{display:none;}
+#centerLayout2 #center1{float:left; width:49%; padding-right:10px;}
+#centerLayout2 #center2{float:left;width:49%;}
+
+#centerLayout3 #right{float:right; width:220px;}
+#centerLayout3 #left{display:none;}
+#centerLayout3 #center1{display:none;}
+#centerLayout3 #center2{float:left; width:76%;}
+
+#centerLayout4 #right{display:none;}
+#centerLayout4 #left{float:left; width:220px; padding-right:10px;}
+#centerLayout4 #center1{display:none;}
+#centerLayout4 #center2{float:left; width:76%;}
+
+#centerLayout5 #right{float:right; width:220px;}
+#centerLayout5 #left{float:left; width:220px; padding-right:10px;}
+#centerLayout5 #center1{display:none;}
+#centerLayout5 #center2{float:left; width:53%; padding-right:10px;}
+
+#centerLayout6 #right{display:none;}
+#centerLayout6 #left{float:left; width:220px; padding-right:10px;}
+#centerLayout6 #center1{float:left; width:38%; padding-right:10px;}
+#centerLayout6 #center2{float:left; width:37%;}
+
+#centerLayout7 #right{float:right; width:24%; padding-right:10px;}
+#centerLayout7 #left{float:left; width:25%; padding-right:10px;}
+#centerLayout7 #center1{float:left; width:25%; padding-right:10px;}
+#centerLayout7 #center2{float:left; width:24%;}
